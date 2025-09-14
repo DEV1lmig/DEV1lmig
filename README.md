@@ -38,4 +38,4 @@ I am a Software Engineer with 3 years of experience, passionate about creating d
 I'm always open to connecting and collaborating on interesting projects.
 
 - 📧 **Email:** [quirozmiguel2002@gmail.com](mailto:quirozmiguel2002@gmail.com) 
-- 💼 **LinkedIn:** `[[Miguel Quiroz]](https://www.linkedin.com/in/m1guel-quiroz/)`
+- 💼 **LinkedIn:** [Miguel Quiroz](https://www.linkedin.com/in/m1guel-quiroz/)
