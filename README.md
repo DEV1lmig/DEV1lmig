@@ -23,7 +23,7 @@ I am a Software Engineer with 3 years of experience, passionate about creating d
 
 #### 🐍 Pycher - AI-Powered Python Learning Platform 
 - My thesis project: an interactive web application that uses AI to dynamically adapt Python learning materials.
-- **Technologies:** React, Vite, Python (backend)[cite: 39].
+- **Technologies:** React, Vite, Python (backend).
 - [Repository](https://github.com/DEV1lmig/pycher)
 
 #### ✨ Spelly - AI-Powered Grammar Corrector
