@@ -31,7 +31,7 @@ Portfolio: **[dev1lmig.github.io](https://dev1lmig.github.io)**
 #### 🎮 Playchive - Your games. Your story.
 - A home for your gaming life: organize a backlog, track what you play, review it and write about it. Web and mobile apps share one backend.
 - **Technologies:** Next.js, React, Tailwind, Expo, Convex, Clerk, IGDB.
-- [Live](https://playchive.vercel.app) · [Repository](https://github.com/DEV1lmig/Binnacle)
+- [Live](https://playchive.vercel.app) · [Repository](https://github.com/DEV1lmig/Playchive)
 
 #### 🐍 Pycher - AI-Powered Python Learning Platform
 - My thesis project: an interactive web application that uses AI to dynamically adapt Python learning materials.
@@ -40,7 +40,7 @@ Portfolio: **[dev1lmig.github.io](https://dev1lmig.github.io)**
 
 #### ✨ Spelly - AI-Powered Grammar Corrector
 - A web application that improves grammar checking accuracy with Machine Learning models, with an interface refined through user testing.
-- [Repository](https://github.com/DEV1lmig/spelly-kit) · [Live](https://spelly-kit.vercel.app)
+- [Repository](https://github.com/DEV1lmig/spelly-kit)
 
 ---
 
